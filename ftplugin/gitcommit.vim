@@ -1,5 +1,5 @@
 " Vim filetype plugin
-" Language:	git commit file
+" Language: git commit file
 " Maintainer: Chris Streeter
 
 " Start at the first line
